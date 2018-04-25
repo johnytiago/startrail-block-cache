@@ -1,0 +1,20 @@
+{
+  "name": "startrail-block-cache",
+  "version": "1.0.0",
+  "description": "Datastructure that stores IPFS blocks for Startrail cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "IPFS",
+    "P2P",
+    "Cache"
+  ],
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "author": "johnytiago",
+  "license": "MIT"
+}
